@@ -1,2 +1,2 @@
-# projet-licence-
-le test de chi-deux application en biologie 
+# Rapport de projet tutoré 
+Test de chi-deux (application en biologie) 
