@@ -1,2 +1,1 @@
-# Rapport de projet tutoré 
-Test de chi-deux (application en biologie) 
+ university projects are a great way to develop a portfolio, which can be used to demonstrate a student’s capabilities to potential employers.
